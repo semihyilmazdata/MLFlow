@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/semih/Desktop/MLflow/mlflow_project/mlruns/0/59e2158dc5e94f11baa6b60f97486233/artifacts
+deleted_time: 1688730558062
+end_time: 1688730365038
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 59e2158dc5e94f11baa6b60f97486233
+run_name: bold-snake-722
+run_uuid: 59e2158dc5e94f11baa6b60f97486233
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688730362981
+status: 3
+tags: []
+user_id: semih

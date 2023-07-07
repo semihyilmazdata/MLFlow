@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/semih/Desktop/MLflow/mlflow_project/mlruns/0/2d32dd5c5e5b470aa82e0364bb630f4f/artifacts
+deleted_time: 1688731270703
+end_time: 1688731252744
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 2d32dd5c5e5b470aa82e0364bb630f4f
+run_name: MLflow introduction
+run_uuid: 2d32dd5c5e5b470aa82e0364bb630f4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688731250714
+status: 3
+tags: []
+user_id: semih

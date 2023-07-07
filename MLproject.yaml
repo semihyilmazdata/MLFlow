@@ -1,0 +1,7 @@
+name: regression_project
+
+entry_points:
+  main:
+    command: "python train.py"
+    parameters:
+      data_path: {type: str, default: "data.csv"}

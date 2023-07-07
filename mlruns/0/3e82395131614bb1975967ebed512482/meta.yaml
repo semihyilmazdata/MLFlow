@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/semih/Desktop/MLflow/mlflow_project/mlruns/0/3e82395131614bb1975967ebed512482/artifacts
+deleted_time: 1688730558065
+end_time: 1688730263300
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 3e82395131614bb1975967ebed512482
+run_name: flawless-calf-956
+run_uuid: 3e82395131614bb1975967ebed512482
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688730261261
+status: 3
+tags: []
+user_id: semih

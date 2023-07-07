@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/semih/Desktop/MLflow/mlflow_project/mlruns/0/3b7c49553c804333a533060d22603a09/artifacts
+deleted_time: 1688730271994
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 3b7c49553c804333a533060d22603a09
+run_name: merciful-worm-704
+run_uuid: 3b7c49553c804333a533060d22603a09
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688729382754
+status: 1
+tags: []
+user_id: semih
